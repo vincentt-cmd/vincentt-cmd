@@ -20,8 +20,8 @@ I am currently a dual enrolled student pursuing an associate degree in cyberseur
 
 ---
 ## Projects
-- Active Directory Lab
-- SOC Automation Project (currently working on)
+- Active Directory Project
+- SOC Automation Lab (currently working on)
 
 ---
 
