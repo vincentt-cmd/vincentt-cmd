@@ -24,34 +24,12 @@ Expert in investigating security incidents, managing data breaches, and applying
 
 ---
 
-## Projects
-
-### **Red Team Engagement**
-Conducted a **simulated cyberattack** to test an organization's defenses, resulting in a vulnerability report and improvement recommendations.
-
-### **Web Application Security Testing**
-Performed **penetration testing** on web applications, identifying vulnerabilities such as **SQL injection** and **Cross-Site Scripting (XSS)**, and recommended fixes.
-
-### **Network Security Assessment**
-Assessed corporate network security, performed vulnerability scanning, and manually exploited weaknesses to evaluate the network’s security posture.
-
----
-
-## Certifications
-
-- **Certified Ethical Hacker (CEH)**
-- **CompTIA Security+**
-- **Cisco Certified Network Associate (CCNA)**
-- **Certified Information Systems Security Professional (CISSP)**
-
----
-
 ## Contact Me
 
 Feel free to reach out via the contact details below:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email**: [vincentnguyen.cyber@gmail.com](mailto:vincentnguyen.cyber@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vincent-nguyen-97961924b/)
 - **GitHub**: [GitHub Profile](https://github.com/yourusername)
 
 ---
