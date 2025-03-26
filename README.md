@@ -8,6 +8,7 @@ Welcome to my page! I am a high school student with a strong technical backgroun
 ## About Me
 
 I am currently a dual enrolled student pursuing an associate degree in cyberseurity and my IGETC. Interested in pursuing a career as a Tier 1 Analyst in a Security Operations Center (SOC).
+
 ---
 
 | Skill                                         | Associated Project         |
