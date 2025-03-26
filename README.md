@@ -1,4 +1,4 @@
-# Hi, my name is Vincent!
+# Hi, I'm Vincent!
 
 Welcome to my page! I am a high school student with a strong technical background and passion for cybersecurity!
 
@@ -7,7 +7,7 @@ Welcome to my page! I am a high school student with a strong technical backgroun
 
 ## About Me
 
-Hello, I'm [Your Name], a **Cybersecurity Enthusiast** focused on ethical hacking, network defense, and incident response. My goal is to protect systems, networks, and data from emerging cyber threats.
+Hello, I'm Vincent, a **Cybersecurity Enthusiast** focused on ethical hacking, network defense, and incident response. My goal is to protect systems, networks, and data from emerging cyber threats.
 
 ---
 
