@@ -13,12 +13,10 @@ I am currently a dual enrolled student pursuing an associate degree in cyberseur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Active Directory Setup and Management         | <a href="https://google.com">Active Directory Lab</a>|
+| SIEM Configuration and Log Analysis (Splunk) | <a href="https://google.com">Active Directory Lab</a>|
+| Threat Detection       | <a href="https://google.com">Active Directory Lab</a>|
+| Penetration Testing and Red Team Simulations      | <a href="https://google.com">Active Directory Lab</a>|
 
 ---
 
