@@ -19,6 +19,11 @@ I am currently a dual enrolled student pursuing an associate degree in cyberseur
 | Penetration Testing and Red Team Simulations      | <a href="https://google.com">Active Directory Lab</a>|
 
 ---
+## Projects
+- Active Directory Lab
+- Automation Lab (currently working on)
+
+---
 
 ## Contact Me
 
