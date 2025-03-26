@@ -13,10 +13,10 @@ I am currently a dual enrolled student pursuing an associate degree in cyberseur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Setup and Management         | <a href="https://google.com">Active Directory Lab</a>|
-| SIEM Configuration and Log Analysis (Splunk) | <a href="https://google.com">Active Directory Lab</a>|
-| Threat Detection       | <a href="https://google.com">Active Directory Lab</a>|
-| Penetration Testing and Red Team Simulations      | <a href="https://google.com">Active Directory Lab</a>|
+| Active Directory Setup and Management         | <a href="https://github.com/vincentt-cmd/Active-Directory-Lab">Active Directory Lab</a>|
+| SIEM Configuration and Log Analysis (Splunk) | <a href="https://github.com/vincentt-cmd/Active-Directory-Lab">Active Directory Lab</a>|
+| Threat Detection       | <a href="https://github.com/vincentt-cmd/Active-Directory-Lab">Active Directory Lab</a>|
+| Penetration Testing and Red Team Simulations      | <a href="https://github.com/vincentt-cmd/Active-Directory-Lab">Active Directory Lab</a>|
 
 ---
 ## Projects
