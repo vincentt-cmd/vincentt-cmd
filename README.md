@@ -1,6 +1,6 @@
 # Hi, my name is Vincent!
 
-Welcome to my **Portfolio**! I am a high school student with a strong technical background and passion for cybersecurity!
+Welcome to my page! I am a high school student with a strong technical background and passion for cybersecurity!
 
 ---
 
