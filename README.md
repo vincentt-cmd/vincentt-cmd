@@ -7,7 +7,7 @@ Welcome to my page! I am a high school student with a strong technical backgroun
 
 ## About Me
 
-Hello, I'm 
+I am currently a dual enrolled student pursuing an associate degree in cyberseurity and my IGETC.
 
 ---
 
