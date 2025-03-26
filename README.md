@@ -11,16 +11,14 @@ I am currently a dual enrolled student pursuing an associate degree in cyberseur
 
 ---
 
-## Skills
-
-### Penetration Testing
-I have hands-on experience with tools like **Metasploit**, **Burp Suite**, and **Nmap** to identify and exploit vulnerabilities in systems.
-
-### Network Security
-Skilled in securing networks, configuring firewalls, and mitigating network-based attacks.
-
-### Incident Response
-Expert in investigating security incidents, managing data breaches, and applying remediation strategies.
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ---
 
@@ -30,7 +28,7 @@ Feel free to reach out via the contact details below:
 
 - **Email**: [vincentnguyen.cyber@gmail.com](mailto:vincentnguyen.cyber@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vincent-nguyen-97961924b/)
-- **GitHub**: [GitHub Profile](https://github.com/yourusername)
+- **GitHub**: [GitHub Profile](https://github.com/vincentt-cmd)
 
 ---
 
