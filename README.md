@@ -1,4 +1,4 @@
-# Vincent
+# Hi, I'm Vincent
 
 Welcome to my page! I am a high school student with a strong technical background and passion for cybersecurity!
 
