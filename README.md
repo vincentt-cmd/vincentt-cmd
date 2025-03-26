@@ -1,6 +1,6 @@
-# [Your Name] - Cybersecurity Portfolio
+# Hi, my name is Vincent!
 
-Welcome to my **Cybersecurity Portfolio**! I am a passionate cybersecurity professional skilled in ethical hacking, penetration testing, network security, and threat analysis. Below, you can explore my skills, projects, certifications, and contact information.
+Welcome to my **Portfolio**! I am a
 
 ---
 
