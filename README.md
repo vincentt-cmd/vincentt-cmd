@@ -1,6 +1,6 @@
 # Hi, I'm Vincent
 
-Welcome to my page! I am a high school student with a strong technical background and passion for Cybersecurity!
+Welcome to my page! This is where I document the projects I've worked on!
 
 ---
 <a href="https://www.linkedin.com/in/vincent-nguyen-97961924b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
