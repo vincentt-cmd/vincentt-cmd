@@ -10,14 +10,6 @@ Welcome to my page! This is where I document projects I'm currently working on.
 I am currently a dual enrolled student (high school senior) pursuing an Associate of Science in Cyberseurity and my IGETC. I'm interested in pursuing a career as a Security Engineer!
 
 ---
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Active Directory Setup and Management         | <a href="https://github.com/vincentt-cmd/Active-Directory-Lab">Active Directory Lab</a>|
-| SIEM Configuration and Log Analysis (Splunk) | <a href="https://github.com/vincentt-cmd/Active-Directory-Lab">Active Directory Lab</a>|
-| Red Team Simulation      | <a href="https://github.com/vincentt-cmd/Active-Directory-Lab">Active Directory Lab</a>|
-
----
 ## Projects
 - Active Directory Project
 - SOC Automation Lab (currently working on)
