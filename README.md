@@ -1,4 +1,4 @@
-# Hi, I'm Vincent
+# Hi, I'm Vincent 👋
 
 Welcome to my page! This is where I document projects I'm currently working on.
 
