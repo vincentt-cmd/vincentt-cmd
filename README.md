@@ -10,7 +10,8 @@ I am currently a dual enrolled student (high school senior) pursuing an Associat
 ## Projects
 
 📚 Active Directory / Splunk Lab
-You can view the write-up here.
+
+You can view the write-up [here](https://github.com/vincentt-cmd/Active-Directory-Splunk-Lab).
 
 ## Contact Me
 
