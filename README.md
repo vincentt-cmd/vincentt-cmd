@@ -11,10 +11,13 @@ I am currently a dual enrolled student (high school senior) pursuing an Associat
 
 ---
 ## Projects
-- Active Directory Project
-- SOC Automation Lab (currently working on)
+
+📚 Active Directory / Splunk Lab
+You can view the write-up here.
 
 ---
+
+
 
 ## Contact Me
 
