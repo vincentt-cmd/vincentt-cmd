@@ -18,8 +18,6 @@ I am currently a dual enrolled student (high school senior) pursuing an Associat
 
 ## Contact Me
 
-Feel free to reach out via the contact details below:
+Feel free to reach out:
 
 - **Email**: [vincentnguyen.cyber@gmail.com](mailto:vincentnguyen.cyber@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vincent-nguyen-97961924b/)
-- **GitHub**: [GitHub Profile](https://github.com/vincentt-cmd)
