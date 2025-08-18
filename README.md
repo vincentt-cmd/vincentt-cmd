@@ -5,7 +5,7 @@ Welcome to my page! This is where I document projects I'm currently working on.
 
 ## About Me
 
-I am currently a dual enrolled student (high school senior) pursuing an Associate of Science in Cyberseurity and my IGETC. I'm interested in pursuing a career as a Security Engineer!
+I am currently a dual enrolled student (high school senior) pursuing an Associate of Science in Cyberseurity and my IGETC.
 
 ## Projects
 
