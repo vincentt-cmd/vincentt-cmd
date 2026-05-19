@@ -4,7 +4,7 @@ Welcome to my page! This is where I document projects I'm currently working on.
 
 ## About Me
 
-I am currently a dual enrolled student (high school senior) pursuing an Associate of Science in Cyberseurity and my IGETC.
+I am currently a dual-enrolled high school student pursuing my Associate of Science in Cyberseurity, which I will have by June, 2026.
 
 ## Projects
 
